@@ -1,8 +1,8 @@
 @charset "UTF-8";
 /*!
-* Start Bootstrap - Mia Yamada-Heidner v7.0.5 (https://startbootstrap.com/theme/grayscale)
+* Start Bootstrap - portfolio v7.0.5 (https://miayh.github.io/portfolio/)
 * Copyright 2013-2022 Start Bootstrap
-* Licensed under MIT (https://github.com/StartBootstrap/Mia Yamada-Heidner/blob/master/LICENSE)
+* Licensed under MIT (https://github.com/StartBootstrap/portfolio/blob/master/LICENSE)
 */
 /*!
  * Bootstrap v5.1.3 (https://getbootstrap.com/)
@@ -11603,7 +11603,7 @@ body {
 
 .about-section {
   padding-top: 10rem;
-  background: linear-gradient(to bottom, #000 0%, rgba(0, 0, 0, 0.9) 75%, rgba(0, 0, 0, 0.8) 100%);
+  background: linear-gradient(to bottom, #000 0%, rgba(0, 0, 0, 0.1) 75%, rgba(0, 0, 0, 0.2) 100%);
 }
 .about-section p {
   margin-bottom: 5rem;
