@@ -1,6 +1,6 @@
 {
-    "title": "Grayscale",
-    "name": "startbootstrap-grayscale",
+    "title": "portfolio",
+    "name": "portfolio",
     "version": "7.0.5",
     "scripts": {
         "build": "npm run clean && npm run build:pug && npm run build:scss && npm run build:scripts && npm run build:assets",
@@ -21,7 +21,7 @@
         "theme",
         "template"
     ],
-    "homepage": "https://startbootstrap.com/theme/grayscale",
+    "homepage": "https://miayh.github.io/portfolio/",
     "bugs": {
         "url": "https://github.com/StartBootstrap/startbootstrap-grayscale/issues",
         "email": "feedback@startbootstrap.com"
